@@ -3,8 +3,6 @@ const comidas = (comida1, comida2, comida3) => {
     ${comida1}
     ${comida2}
     ${comida3}`)
-
-    
 }
 
 const comida1 = prompt('Qual sua comida favorita?')
